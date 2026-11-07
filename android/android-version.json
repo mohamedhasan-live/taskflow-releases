@@ -1,0 +1,10 @@
+{
+  "versionCode": 15,
+  "versionName": "1.0.0",
+  "apkUrl": "https://raw.githubusercontent.com/mohamedhasan-live/taskflow-releases/main/android/TaskFlow-Android-latest.apk",
+  "apkUrlFallback": "https://taskflow-7qp.pages.dev/TaskFlow-Android-latest.apk",
+  "notes": "تحديث مهم: التحديثات تصل الآن من GitHub بدون حجب، إصلاح تحرك الخلفية في القائمة",
+  "sizeBytes": 16345304,
+  "sha256": "7aabc38f18054bce8c054d784eb71810dbfd8340ec70db8a8db0fc919ea44084",
+  "publishedAt": "2026-11-07T05:50:26.543Z"
+}
