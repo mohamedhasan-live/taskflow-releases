@@ -1,10 +1,10 @@
 {
-  "versionCode": 16,
+  "versionCode": 17,
   "versionName": "1.0.0",
   "apkUrl": "https://raw.githubusercontent.com/mohamedhasan-live/taskflow-releases/main/android/TaskFlow-Android-latest.apk",
   "apkUrlFallback": "https://taskflow-7qp.pages.dev/TaskFlow-Android-latest.apk",
-  "notes": "إصلاح قفز الشاشة والمساحة الفارغة تحت الشريط السفلي عند فتح القائمة، وتثبيت الخلفية أثناء التمرير",
-  "sizeBytes": 16346036,
-  "sha256": "55e8ae509fc3522547a629544c1474bc3d85fbb715174bda5073d1fb2951e390",
-  "publishedAt": "2026-11-07T12:22:24.076Z"
+  "notes": "تحديث تجريبي للتأكد من التحديث التلقائي",
+  "sizeBytes": 16345984,
+  "sha256": "6713d69e5fa9dc7ef8ac9b09e73a84f918da5431588028a4ca692497f7f1af93",
+  "publishedAt": "2026-11-07T13:37:45.299Z"
 }
