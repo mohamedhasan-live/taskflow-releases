@@ -1,0 +1,8 @@
+version: 1.0.16
+files:
+  - url: https://github.com/mohamedhasan-live/taskflow-releases/releases/download/v1.0.16/Taskflow-Setup-1.0.16.exe
+    sha512: wkulsBKl0fn29RTHWTPFzYuUedLTqFl5au0mC8wlUphcF/9XYfveCYcY5Uax0m5KZMwLTZ2QHFMb0joF5hL+ow==
+    size: 139812586
+path: https://github.com/mohamedhasan-live/taskflow-releases/releases/download/v1.0.16/Taskflow-Setup-1.0.16.exe
+sha512: wkulsBKl0fn29RTHWTPFzYuUedLTqFl5au0mC8wlUphcF/9XYfveCYcY5Uax0m5KZMwLTZ2QHFMb0joF5hL+ow==
+releaseDate: '2026-11-07T12:20:50.544Z'
